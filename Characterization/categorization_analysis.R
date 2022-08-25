@@ -144,5 +144,3 @@ mean(km$cluster==cat_col$category)
 library(cowplot)
 
 plot_grid(as.grob(a),b, labels = c("A","B"), label_size = 10)
-
-as.grob(a)
