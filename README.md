@@ -33,3 +33,13 @@ The order in which to run the needed code is shown below
 11. `Characterization/Tumor_classification.ipynb`
 
 12. `Characterization/categorizationanalysis.R`
+
+## Other Files
+
+The following files are not required to proceed with the analysis
+
+- `ClusterProfiler/exploratory_plots.R`
+
+- `alignment/multiqc_plot.R`
+
+- `analysis_counts/visualization.R`
